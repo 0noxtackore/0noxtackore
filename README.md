@@ -10,7 +10,7 @@
 </div>
 
 <div align="center" style="width:100%;">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXNybXdjcGE4eGJ1cGxkNHFlNGFqa2MyaG92M2VleDI1MWxrcnF2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H4nUqdNomOWzJfoIa6/giphy.gif" alt="Mario animation" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXNybXdjcGE4eGJ1cGxkNHFlNGFqa2MyaG92M2VleDI1MWxrcnF2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H4nUqdNomOWzJfoIa6/giphy.gif" alt="Mario animation" width="100%" />
 </div>
 
 # Tech Stack
