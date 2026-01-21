@@ -29,7 +29,7 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-## Featured Projects
+## *Featured* Projects
 <table>
 <tr>
 <td width="50%">
@@ -39,6 +39,9 @@
 <p>
 <a href="https://github.com/0noxtackore/Ebenezer-Screen" target="_blank">
 <img src="https://img.shields.io/badge/SOURCE_CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://github.com/0noxtackore/Ebenezer-Screen/blob/main/README.md" target="_blank">
+<img src="https://img.shields.io/badge/DOCUMENTATION-0078D4?style=for-the-badge&logo=googledocs&logoColor=white">
 </a>
 </p>
 <p>A specialized <strong>Web App interface</strong> designed for large-scale displays. It focuses on high-readability UI and real-time content management, optimized for institutional or church environments.</p>
@@ -52,6 +55,9 @@
 <p>
 <a href="https://github.com/0noxtackore/Prototipe-Fluffy_Adventures" target="_blank">
 <img src="https://img.shields.io/badge/SOURCE_CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://github.com/0noxtackore/Prototipe-Fluffy_Adventures/blob/main/README.md" target="_blank">
+<img src="https://img.shields.io/badge/DOCUMENTATION-0078D4?style=for-the-badge&logo=googledocs&logoColor=white">
 </a>
 </p>
 <p>A <strong>Python-based game prototype</strong> exploring core game logic, state management, and asset rendering. Designed with modular architecture to ensure scalability and clean code standards.</p>
@@ -68,6 +74,9 @@
 <a href="https://github.com/0noxtackore/onoxfri-v1.1" target="_blank">
 <img src="https://img.shields.io/badge/SOURCE_CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
+<a href="https://github.com/0noxtackore/onoxfri-v1.1/blob/main/README.md" target="_blank">
+<img src="https://img.shields.io/badge/DOCUMENTATION-0078D4?style=for-the-badge&logo=googledocs&logoColor=white">
+</a>
 </p>
 <p>Advanced <strong>Mobile Development</strong> project focused on performance and clean architecture. Implements modern Android patterns to handle complex data structures and smooth user transitions.</p>
 </div>
@@ -80,6 +89,9 @@
 <p>
 <a href="https://github.com/0noxtackore/Official-Site-Comics-Onofrietti" target="_blank">
 <img src="https://img.shields.io/badge/SOURCE_CODE-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://github.com/0noxtackore/Official-Site-Comics-Onofrietti/blob/main/README.md" target="_blank">
+<img src="https://img.shields.io/badge/DOCUMENTATION-0078D4?style=for-the-badge&logo=googledocs&logoColor=white">
 </a>
 </p>
 <p>A <strong>Multiplatform Web Hub</strong> for comic distribution. This project integrates responsive web design with a focus on visual storytelling and efficient asset loading for high-resolution media.</p>
