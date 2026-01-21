@@ -3,16 +3,22 @@
 </div>
 <img style="width:100%; height: auto; object-fit: contain; image-rendering: crisp-edges;" src="https://i.ibb.co/PGvcNQmK/0noxtackore.png">
 
-##🚀 About Me
-💻 Software Architect: Specialized in designing and optimizing robust systems.
+## 🚀 About Me  
 
-🛠️ Full-Stack Builder: From Python logic to scalable web interfaces for large displays.
+💻 **Software Architect**  
+- Specialized in designing and optimizing robust systems.  
 
-🎬 Content Creator: Sharing engineering and development insights on YouTube (0noxtackore).
+🛠️ **Full-Stack Builder**  
+- From Python logic to scalable web interfaces for large displays.  
 
-🎓 Student: Constant learner focused on clean architectures and efficient software development.
+🎬 **Content Creator**  
+- Sharing engineering and development insights on YouTube (**0noxtackore**).  
 
-⚡ Logic Driven: My approach is to transform complex problems into elegant, high-performance code.
+🎓 **Student**  
+- Constant learner focused on clean architectures and efficient software development.  
+
+⚡ **Logic Driven**  
+- My approach is to transform complex problems into elegant, high-performance code.  
 
 ## Proyectos *bombitas*
 <table>
