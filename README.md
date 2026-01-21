@@ -3,15 +3,16 @@
 </div>
 <img style="width:100%; height: auto; object-fit: contain; image-rendering: crisp-edges;" src="https://i.ibb.co/PGvcNQmK/0noxtackore.png">
 
-## Sobre mi
+##🚀 About Me
+💻 Software Architect: Specialized in designing and optimizing robust systems.
 
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+110k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
-<br>
+🛠️ Full-Stack Builder: From Python logic to scalable web interfaces for large displays.
+
+🎬 Content Creator: Sharing engineering and development insights on YouTube (0noxtackore).
+
+🎓 Student: Constant learner focused on clean architectures and efficient software development.
+
+⚡ Logic Driven: My approach is to transform complex problems into elegant, high-performance code.
 
 ## Proyectos *bombitas*
 <table>
