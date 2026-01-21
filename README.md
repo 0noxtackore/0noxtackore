@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi%2C+my+name+is+0noxtackore+👋;Software+Architect;Systems+Engineer;Full-Stack+Builder" alt="Typing SVG" />
+<h1 align="center">Hi, my name is <a href="https://aristi.dev">0noxtackore</a> 👋</h1>
 </div>
 
 <img style="width:100%; height: auto; object-fit: contain; image-rendering: crisp-edges;" src="https://i.ibb.co/PGvcNQmK/0noxtackore.png">
