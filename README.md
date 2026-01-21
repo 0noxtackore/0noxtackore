@@ -1,36 +1,65 @@
-# Hi, I'm 0noxtackore <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZ3bm9ueXZ3bm9ueXZ3bm9ueXZ3bm9ueXZ3bm9ueXZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="30">
+<div align="center">
+<h1 align="center">Hola, soy <a href="#">0noxtackore</a> 👋</h1>
+</div>
 
-### Software Architect & Full-Stack Developer
-*Engineering robust, scalable, and high-performance systems from the core up.*
+<div align="center">
+<img src="https://lh3.googleusercontent.com/d/1yWlA8fK4I8Q9I_vI_oT-I_vI_oT-I_vI" width="100%" alt="0noxtackore profile banner">
+</div>
 
----
+<br>
 
-### 🛠 Tech Stack & Tools
-| Area | Technologies |
-| :--- | :--- |
-| **Languages** | Python, JavaScript, TypeScript, [Agrega los tuyos] |
-| **Backend** | Node.js, FastAPI, PostgreSQL |
-| **Frontend** | React, Next.js, Tailwind CSS |
-| **DevOps** | Docker, Git, AWS |
+<div align="center">
+[![GitHub followers](https://img.shields.io/github/followers/0noxtackore?style=social)](https://github.com/0noxtackore)
+</div>
 
----
+## Sobre mi
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=0noxtackore&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0noxtackore&layout=compact&theme=tokyonight&hide_border=true)
+- 💻 **Software Architect** & Full-Stack Developer
+- 🚀 Enfocado en la optimización de sistemas y escalabilidad.
+- 🛠️ Mi filosofía: **Logic over everything.**
+- 🎯 Siempre construyendo soluciones desde el **Core**.
 
----
+<br>
 
-### 🛡 Core Philosophy
-- **Clean Code:** If it's hard to read, it's a bug.
-- **Scalability:** Build today thinking about a million users tomorrow.
-- **Security:** Performance is nothing without reliability.
+## Proyectos *Core*
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Proyecto 1</h3>
+<div align="center">
+<a href="#" target="_blank"><img src="https://via.placeholder.com/400x225.png?text=Proximamente+0noxtackore" width="400" alt="Proyecto 1"></a>
+<p>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+<p>Descripción de tu primer gran proyecto. Explica qué problema resuelve y qué tecnologías usaste (ej. Python, React, Docker).</p>
+</div>
+</td>
 
----
+<td width="50%">
+<h3 align="center">Proyecto 2</h3>
+<div align="center">
+<a href="#" target="_blank"><img src="https://via.placeholder.com/400x225.png?text=En+Desarrollo" width="400" alt="Proyecto 2"></a>
+<br>
+<p>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+<p>Descripción de tu segundo proyecto. Enfócate en los retos técnicos que superaste para darle ese aire profesional y "temido".</p>
+</div>
+</td>
+</table>
+</div>
 
-### 📬 Connect with me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](TU_LINK_DE_LINKEDIN)
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:TU_EMAIL@gmail.com)
+<br>
 
----
-*“Logic is the beginning of wisdom, not the end.”*
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/0noxtackore">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0noxtackore&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0noxtackore&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
+</p>
