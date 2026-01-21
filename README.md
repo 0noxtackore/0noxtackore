@@ -103,34 +103,34 @@
 
 <tr>
 <td width="50%">
-<h3 align="center">OnoxFri V1.1</h3>
+<h3 align="center">Lithay Catalog System</h3>
 <div align="center">
-<a href="https://github.com/0noxtackore/onoxfri-v1.1" target="_blank"><img src="https://i.ibb.co/N2T30z6X/5.png" width="400" style="max-width:100%;" alt="OnoxFri"></a>
+<a href="https://github.com/0noxtackore/Cat-logo-Lithay" target="_blank"><img src="https://i.ibb.co/N2T30z6X/5.png" width="400" style="max-width:100%;" alt="Lithay Catalog"></a>
 <p>
-<a href="https://github.com/0noxtackore/onoxfri-v1.1" target="_blank">
-<img src="https://img.shields.io/badge/SOURCE_CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/0noxtackore/Cat-logo-Lithay" target="_blank">
+<img src="https://img.shields.io/badge/SOURCE_CODE-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://github.com/0noxtackore/onoxfri-v1.1/blob/main/README.md" target="_blank">
+<a href="https://github.com/0noxtackore/Cat-logo-Lithay/blob/main/README.md" target="_blank">
 <img src="https://img.shields.io/badge/DOCUMENTATION-0078D4?style=for-the-badge&logo=googledocs&logoColor=white">
 </a>
 </p>
-<p>Advanced <strong>Mobile Development</strong> project focused on performance and clean architecture. Implements modern Android patterns.</p>
+<p>A professional <strong>Digital Catalog Solution</strong> designed for product showcasing. Features a responsive layout and optimized search system.</p>
 </div>
 </td>
 
 <td width="50%">
-<h3 align="center">Onofrietti Comics Official</h3>
+<h3 align="center">Eticamix Manager</h3>
 <div align="center">
-<a href="https://github.com/0noxtackore/Official-Site-Comics-Onofrietti" target="_blank"><img src="https://i.ibb.co/S4Lm9M9L/4.png" width="400" style="max-width:100%;" alt="Comics Site"></a>
+<a href="https://github.com/0noxtackore/Eticamix" target="_blank"><img src="https://i.ibb.co/Jw42kwR5/6.png" width="400" style="max-width:100%;" alt="Eticamix"></a>
 <p>
-<a href="https://github.com/0noxtackore/Official-Site-Comics-Onofrietti" target="_blank">
+<a href="https://github.com/0noxtackore/Eticamix" target="_blank">
 <img src="https://img.shields.io/badge/SOURCE_CODE-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://github.com/0noxtackore/Official-Site-Comics-Onofrietti/blob/main/README.md" target="_blank">
+<a href="https://github.com/0noxtackore/Eticamix/blob/main/README.md" target="_blank">
 <img src="https://img.shields.io/badge/DOCUMENTATION-0078D4?style=for-the-badge&logo=googledocs&logoColor=white">
 </a>
 </p>
-<p>A <strong>Multiplatform Web Hub</strong> for comic distribution. Integrates responsive web design with a focus on visual storytelling.</p>
+<p>An innovative <strong>Management & Ethics Platform</strong>. Focuses on structured data handling, ensuring data integrity and security.</p>
 </div>
 </td>
 </tr>
