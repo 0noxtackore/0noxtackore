@@ -37,7 +37,7 @@
 <td width="50%">
 <h3 align="center">Ebenezer Screen System</h3>
 <div align="center">
-<a href="https://github.com/0noxtackore/Ebenezer-Screen" target="_blank"><img src="https://i.ibb.co/F4S1GcxZ/1.png" width="400" alt="Ebenezer Screen"></a>
+<a href="https://github.com/0noxtackore/Ebenezer-Screen" target="_blank"><img src="https://i.ibb.co/F4S1GcxZ/1.png" width="400" style="max-width:100%;" alt="Ebenezer Screen"></a>
 <p>
 <a href="https://github.com/0noxtackore/Ebenezer-Screen" target="_blank">
 <img src="https://img.shields.io/badge/SOURCE_CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -46,14 +46,14 @@
 <img src="https://img.shields.io/badge/DOCUMENTATION-0078D4?style=for-the-badge&logo=googledocs&logoColor=white">
 </a>
 </p>
-<p>A specialized <strong>Web App interface</strong> designed for large-scale displays. It focuses on high-readability UI and real-time content management, optimized for institutional or church environments.</p>
+<p>A specialized <strong>Web App interface</strong> designed for large-scale displays. It focuses on high-readability UI and real-time content management.</p>
 </div>
 </td>
 
 <td width="50%">
 <h3 align="center">Fluffy Adventures (Engine)</h3>
 <div align="center">
-<a href="https://github.com/0noxtackore/Prototipe-Fluffy_Adventures" target="_blank"><img src="https://i.ibb.co/35qWDzmS/2.png" width="400" alt="Fluffy Adventures"></a>
+<a href="https://github.com/0noxtackore/Prototipe-Fluffy_Adventures" target="_blank"><img src="https://i.ibb.co/35qWDzmS/2.png" width="400" style="max-width:100%;" alt="Fluffy Adventures"></a>
 <p>
 <a href="https://github.com/0noxtackore/Prototipe-Fluffy_Adventures" target="_blank">
 <img src="https://img.shields.io/badge/SOURCE_CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
@@ -62,7 +62,7 @@
 <img src="https://img.shields.io/badge/DOCUMENTATION-0078D4?style=for-the-badge&logo=googledocs&logoColor=white">
 </a>
 </p>
-<p>A <strong>Python-based game prototype</strong> exploring core game logic, state management, and asset rendering. Designed with modular architecture to ensure scalability and clean code standards.</p>
+<p>A <strong>Python-based game prototype</strong> exploring core game logic, state management, and asset rendering. Designed with modular architecture.</p>
 </div>
 </td>
 </tr>
@@ -71,7 +71,7 @@
 <td width="50%">
 <h3 align="center">OnoxFri V1.1</h3>
 <div align="center">
-<a href="https://github.com/0noxtackore/onoxfri-v1.1" target="_blank"><img src="https://i.ibb.co/zTsmT69K/3.png" width="400" alt="OnoxFri"></a>
+<a href="https://github.com/0noxtackore/onoxfri-v1.1" target="_blank"><img src="https://i.ibb.co/zTsmT69K/3.png" width="400" style="max-width:100%;" alt="OnoxFri"></a>
 <p>
 <a href="https://github.com/0noxtackore/onoxfri-v1.1" target="_blank">
 <img src="https://img.shields.io/badge/SOURCE_CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -80,14 +80,14 @@
 <img src="https://img.shields.io/badge/DOCUMENTATION-0078D4?style=for-the-badge&logo=googledocs&logoColor=white">
 </a>
 </p>
-<p>Advanced <strong>Mobile Development</strong> project focused on performance and clean architecture. Implements modern Android patterns to handle complex data structures and smooth user transitions.</p>
+<p>Advanced <strong>Mobile Development</strong> project focused on performance and clean architecture. Implements modern Android patterns.</p>
 </div>
 </td>
 
 <td width="50%">
 <h3 align="center">Onofrietti Comics Official</h3>
 <div align="center">
-<a href="https://github.com/0noxtackore/Official-Site-Comics-Onofrietti" target="_blank"><img src="https://i.ibb.co/S4Lm9M9L/4.png" width="400" alt="Comics Site"></a>
+<a href="https://github.com/0noxtackore/Official-Site-Comics-Onofrietti" target="_blank"><img src="https://i.ibb.co/S4Lm9M9L/4.png" width="400" style="max-width:100%;" alt="Comics Site"></a>
 <p>
 <a href="https://github.com/0noxtackore/Official-Site-Comics-Onofrietti" target="_blank">
 <img src="https://img.shields.io/badge/SOURCE_CODE-cfaae0?style=for-the-badge&logo=github&logoColor=black">
@@ -96,7 +96,7 @@
 <img src="https://img.shields.io/badge/DOCUMENTATION-0078D4?style=for-the-badge&logo=googledocs&logoColor=white">
 </a>
 </p>
-<p>A <strong>Multiplatform Web Hub</strong> for comic distribution. This project integrates responsive web design with a focus on visual storytelling and efficient asset loading for high-resolution media.</p>
+<p>A <strong>Multiplatform Web Hub</strong> for comic distribution. Integrates responsive web design with a focus on visual storytelling.</p>
 </div>
 </td>
 </tr>
@@ -105,7 +105,7 @@
 <td width="50%">
 <h3 align="center">Lithay Catalog System</h3>
 <div align="center">
-<a href="https://github.com/0noxtackore/Cat-logo-Lithay" target="_blank"><img src="https://i.ibb.co/N2T30z6X/5.png" width="400" alt="Lithay Catalog"></a>
+<a href="https://github.com/0noxtackore/Cat-logo-Lithay" target="_blank"><img src="https://i.ibb.co/N2T30z6X/5.png" width="400" style="max-width:100%;" alt="Lithay Catalog"></a>
 <p>
 <a href="https://github.com/0noxtackore/Cat-logo-Lithay" target="_blank">
 <img src="https://img.shields.io/badge/SOURCE_CODE-cfaae0?style=for-the-badge&logo=github&logoColor=black">
@@ -114,14 +114,14 @@
 <img src="https://img.shields.io/badge/DOCUMENTATION-0078D4?style=for-the-badge&logo=googledocs&logoColor=white">
 </a>
 </p>
-<p>A professional <strong>Digital Catalog Solution</strong> designed for product showcasing. Features a responsive layout and an optimized search system for high-volume inventory management.</p>
+<p>A professional <strong>Digital Catalog Solution</strong> designed for product showcasing. Features a responsive layout and optimized search system.</p>
 </div>
 </td>
 
 <td width="50%">
 <h3 align="center">Eticamix Manager</h3>
 <div align="center">
-<a href="https://github.com/0noxtackore/Eticamix" target="_blank"><img src="https://i.ibb.co/Jw42kwR5/6.png" width="400" alt="Eticamix"></a>
+<a href="https://github.com/0noxtackore/Eticamix" target="_blank"><img src="https://i.ibb.co/Jw42kwR5/6.png" width="400" style="max-width:100%;" alt="Eticamix"></a>
 <p>
 <a href="https://github.com/0noxtackore/Eticamix" target="_blank">
 <img src="https://img.shields.io/badge/SOURCE_CODE-cfaae0?style=for-the-badge&logo=github&logoColor=black">
@@ -130,7 +130,7 @@
 <img src="https://img.shields.io/badge/DOCUMENTATION-0078D4?style=for-the-badge&logo=googledocs&logoColor=white">
 </a>
 </p>
-<p>An innovative <strong>Management & Ethics Platform</strong>. This project focuses on structured data handling and user interaction, built with a robust backend to ensure data integrity and security.</p>
+<p>An innovative <strong>Management & Ethics Platform</strong>. Focuses on structured data handling, ensuring data integrity and security.</p>
 </div>
 </td>
 </tr>
