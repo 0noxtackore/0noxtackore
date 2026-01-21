@@ -5,7 +5,7 @@
 
 <!-- Snake Game Repo View -->
 
-<div align="center">
+<div align="center" style="width:100%;">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>  
 
