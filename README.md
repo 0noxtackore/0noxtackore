@@ -105,7 +105,7 @@
 <td width="50%">
 <h3 align="center">Lithay Catalog System</h3>
 <div align="center">
-<a href="https://github.com/0noxtackore/Cat-logo-Lithay" target="_blank"><img src="https://i.ibb.co/N2T30z6X/5.png" width="400" style="max-width:100%;" alt="Lithay Catalog"></a>
+<a href="https://github.com/0noxtackore/Cat-logo-Lithay" target="_blank"><img src="https://i.postimg.cc/ZRp4sc2r/5.png" width="400" style="max-width:100%;" alt="Lithay Catalog"></a>
 <p>
 <a href="https://github.com/0noxtackore/Cat-logo-Lithay" target="_blank">
 <img src="https://img.shields.io/badge/SOURCE_CODE-cfaae0?style=for-the-badge&logo=github&logoColor=black">
