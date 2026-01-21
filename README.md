@@ -3,22 +3,11 @@
 </div>
 <img style="width:100%; height: auto; object-fit: contain; image-rendering: crisp-edges;" src="https://i.ibb.co/PGvcNQmK/0noxtackore.png">
 
-## 🚀 About Me  
+<!-- Snake Game Repo View -->
 
-💻 **Software Architect**  
-- Specialized in designing and optimizing robust systems.  
-
-🛠️ **Full-Stack Builder**  
-- From Python logic to scalable web interfaces for large displays.  
-
-🎬 **Content Creator**  
-- Sharing engineering and development insights on YouTube (**0noxtackore**).  
-
-🎓 **Student**  
-- Constant learner focused on clean architectures and efficient software development.  
-
-⚡ **Logic Driven**  
-- My approach is to transform complex problems into elegant, high-performance code.  
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>  
 
 ## Proyectos *bombitas*
 <table>
