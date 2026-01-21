@@ -100,42 +100,39 @@
 </div>
 </td>
 </tr>
-<tr>
-  <td width="50%">
-    <h3 align="center">Lithay Catalog System</h3>
-    <div align="center">
-      <a href="https://github.com/0noxtackore/Cat-logo-Lithay" target="_blank">
-        <img src="https://i.ibb.co/N2T30z6X/5.png" width="400" alt="Lithay Catalog">
-      </a>
-      <p>
-        <a href="https://github.com/0noxtackore/Cat-logo-Lithay" target="_blank">
-          <img src="https://img.shields.io/badge/SOURCE_CODE-cfaae0?style=for-the-badge&logo=github&logoColor=black">
-        </a>
-        <a href="https://github.com/0noxtackore/Cat-logo-Lithay/blob/main/README.md" target="_blank">
-          <img src="https://img.shields.io/badge/DOCUMENTATION-0078D4?style=for-the-badge&logo=googledocs&logoColor=white">
-        </a>
-      </p>
-      <p>A professional <strong>Digital Catalog Solution</strong> designed for product showcasing. Features a responsive layout and an optimized search system for high-volume inventory management.</p>
-    </div>
-  </td>
 
-  <td width="50%">
-    <h3 align="center">Eticamix Manager</h3>
-    <div align="center">
-      <a href="https://github.com/0noxtackore/Eticamix" target="_blank">
-        <img src="https://i.ibb.co/Jw42kwR5/6.png" width="400" alt="Eticamix">
-      </a>
-      <p>
-        <a href="https://github.com/0noxtackore/Eticamix" target="_blank">
-          <img src="https://img.shields.io/badge/SOURCE_CODE-cfaae0?style=for-the-badge&logo=github&logoColor=black">
-        </a>
-        <a href="https://github.com/0noxtackore/Eticamix/blob/main/README.md" target="_blank">
-          <img src="https://img.shields.io/badge/DOCUMENTATION-0078D4?style=for-the-badge&logo=googledocs&logoColor=white">
-        </a>
-      </p>
-      <p>An innovative <strong>Management & Ethics Platform</strong>. This project focuses on structured data handling and user interaction, built with a robust backend to ensure data integrity and security.</p>
-    </div>
-  </td>
+<tr>
+<td width="50%">
+<h3 align="center">Lithay Catalog System</h3>
+<div align="center">
+<a href="https://github.com/0noxtackore/Cat-logo-Lithay" target="_blank"><img src="https://i.ibb.co/N2T30z6X/5.png" width="400" alt="Lithay Catalog"></a>
+<p>
+<a href="https://github.com/0noxtackore/Cat-logo-Lithay" target="_blank">
+<img src="https://img.shields.io/badge/SOURCE_CODE-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://github.com/0noxtackore/Cat-logo-Lithay/blob/main/README.md" target="_blank">
+<img src="https://img.shields.io/badge/DOCUMENTATION-0078D4?style=for-the-badge&logo=googledocs&logoColor=white">
+</a>
+</p>
+<p>A professional <strong>Digital Catalog Solution</strong> designed for product showcasing. Features a responsive layout and an optimized search system for high-volume inventory management.</p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">Eticamix Manager</h3>
+<div align="center">
+<a href="https://github.com/0noxtackore/Eticamix" target="_blank"><img src="https://i.ibb.co/Jw42kwR5/6.png" width="400" alt="Eticamix"></a>
+<p>
+<a href="https://github.com/0noxtackore/Eticamix" target="_blank">
+<img src="https://img.shields.io/badge/SOURCE_CODE-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://github.com/0noxtackore/Eticamix/blob/main/README.md" target="_blank">
+<img src="https://img.shields.io/badge/DOCUMENTATION-0078D4?style=for-the-badge&logo=googledocs&logoColor=white">
+</a>
+</p>
+<p>An innovative <strong>Management & Ethics Platform</strong>. This project focuses on structured data handling and user interaction, built with a robust backend to ensure data integrity and security.</p>
+</div>
+</td>
 </tr>
 </table>
 
