@@ -121,7 +121,7 @@
 <td width="50%">
 <h3 align="center">Eticamix Manager</h3>
 <div align="center">
-<a href="https://github.com/0noxtackore/Eticamix" target="_blank"><img src="https://i.ibb.co/Jw42kwR5/6.png" width="400" style="max-width:100%;" alt="Eticamix"></a>
+<a href="https://github.com/0noxtackore/Eticamix" target="_blank"><img src="https://i.postimg.cc/zBK82j6F/6.png" width="400" style="max-width:100%;" alt="Eticamix"></a>
 <p>
 <a href="https://github.com/0noxtackore/Eticamix" target="_blank">
 <img src="https://img.shields.io/badge/SOURCE_CODE-cfaae0?style=for-the-badge&logo=github&logoColor=black">
