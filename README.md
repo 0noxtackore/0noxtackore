@@ -1,4 +1,3 @@
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/7a911336-04e4-461c-819b-e8fedb45ea49" /><div align="center">
 <h1 align="center">Hi, my name is <a href="https://aristi.dev">0noxtackore</a> 👋</h1>
 </div>
 
