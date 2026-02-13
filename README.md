@@ -1,7 +1,7 @@
 <h1 align="center">Hi, my name is <a href="https://aristi.dev">0noxtackore</a> 👋</h1>
 </div>
 
-<img style="width:100%; height: auto; object-fit: contain; image-rendering: crisp-edges;" src="https://i.ibb.co/PGvcNQmK/0noxtackore.png">
+<img style="width:100%; height: auto; object-fit: contain; image-rendering: crisp-edges;" src="img/portafolio.png">
 
 <div align="center" style="width:100%;">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%"/>
@@ -36,7 +36,7 @@
 <td width="50%">
 <h3 align="center">Ebenezer Screen System</h3>
 <div align="center">
-<a href="https://github.com/0noxtackore/Ebenezer-Screen" target="_blank"><img src="https://i.ibb.co/F4S1GcxZ/1.png" width="400" style="max-width:100%;" alt="Ebenezer Screen"></a>
+<a href="https://github.com/0noxtackore/Ebenezer-Screen" target="_blank"><img src="img/1.png" width="400" style="max-width:100%;" alt="Ebenezer Screen"></a>
 <p>
 <a href="https://github.com/0noxtackore/Ebenezer-Screen" target="_blank">
 <img src="https://img.shields.io/badge/SOURCE_CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -52,7 +52,7 @@
 <td width="50%">
 <h3 align="center">Fluffy Adventures (Engine)</h3>
 <div align="center">
-<a href="https://github.com/0noxtackore/Prototipe-Fluffy_Adventures" target="_blank"><img src="https://i.ibb.co/35qWDzmS/2.png" width="400" style="max-width:100%;" alt="Fluffy Adventures"></a>
+<a href="https://github.com/0noxtackore/Prototipe-Fluffy_Adventures" target="_blank"><img src="img/2.png" width="400" style="max-width:100%;" alt="Fluffy Adventures"></a>
 <p>
 <a href="https://github.com/0noxtackore/Prototipe-Fluffy_Adventures" target="_blank">
 <img src="https://img.shields.io/badge/SOURCE_CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
@@ -70,7 +70,7 @@
 <td width="50%">
 <h3 align="center">OnoxFri V1.1</h3>
 <div align="center">
-<a href="https://github.com/0noxtackore/onoxfri-v1.1" target="_blank"><img src="https://i.ibb.co/zTsmT69K/3.png" width="400" style="max-width:100%;" alt="OnoxFri"></a>
+<a href="https://github.com/0noxtackore/onoxfri-v1.1" target="_blank"><img src="img/3.png" width="400" style="max-width:100%;" alt="OnoxFri"></a>
 <p>
 <a href="https://github.com/0noxtackore/onoxfri-v1.1" target="_blank">
 <img src="https://img.shields.io/badge/SOURCE_CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -86,7 +86,7 @@
 <td width="50%">
 <h3 align="center">Onofrietti Comics Official</h3>
 <div align="center">
-<a href="https://github.com/0noxtackore/Official-Site-Comics-Onofrietti" target="_blank"><img src="https://i.ibb.co/S4Lm9M9L/4.png" width="400" style="max-width:100%;" alt="Comics Site"></a>
+<a href="https://github.com/0noxtackore/Official-Site-Comics-Onofrietti" target="_blank"><img src="img/4.png" width="400" style="max-width:100%;" alt="Comics Site"></a>
 <p>
 <a href="https://github.com/0noxtackore/Official-Site-Comics-Onofrietti" target="_blank">
 <img src="https://img.shields.io/badge/SOURCE_CODE-cfaae0?style=for-the-badge&logo=github&logoColor=black">
@@ -104,7 +104,7 @@
 <td width="50%">
 <h3 align="center">Lithay Catalog System</h3>
 <div align="center">
-<a href="https://github.com/0noxtackore/Cat-logo-Lithay" target="_blank"><img src="https://i.postimg.cc/W3CSzm4v/Miniatura-para-You-Tube-Canal-para-Emprendedores-Moderno-Marron.png" width="400" style="max-width:100%;" alt="Lithay Catalog"></a>
+<a href="https://github.com/0noxtackore/Cat-logo-Lithay" target="_blank"><img src="img/5.png" width="400" style="max-width:100%;" alt="Lithay Catalog"></a>
 <p>
 <a href="https://github.com/0noxtackore/Cat-logo-Lithay" target="_blank">
 <img src="https://img.shields.io/badge/SOURCE_CODE-cfaae0?style=for-the-badge&logo=github&logoColor=black">
@@ -120,7 +120,7 @@
 <td width="50%">
 <h3 align="center">Eticamix Manager</h3>
 <div align="center">
-<a href="https://github.com/0noxtackore/Eticamix" target="_blank"><img src="https://i.postimg.cc/zBK82j6F/6.png" width="400" style="max-width:100%;" alt="Eticamix"></a>
+<a href="https://github.com/0noxtackore/Eticamix" target="_blank"><img src="img/6.png" width="400" style="max-width:100%;" alt="Eticamix"></a>
 <p>
 <a href="https://github.com/0noxtackore/Eticamix" target="_blank">
 <img src="https://img.shields.io/badge/SOURCE_CODE-cfaae0?style=for-the-badge&logo=github&logoColor=black">
