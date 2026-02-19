@@ -125,7 +125,7 @@
 <a href="https://github.com/0noxtackore/Eticamix" target="_blank">
 <img src="https://img.shields.io/badge/SOURCE_CODE-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://github.com/0noxtackore/Eticamix/blob/main/README.md" target="_blank">
+<a href="https://github.com/0noxtackore/Eticamix/blob/main/README.MD" target="_blank">
 <img src="https://img.shields.io/badge/DOCUMENTATION-0078D4?style=for-the-badge&logo=googledocs&logoColor=white">
 </a>
 </p>
