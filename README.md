@@ -33,6 +33,39 @@
 ## *Featured* Projects
 <table>
 <tr>
+  <td width="50%">
+    <h3 align="center">Radio Ebenezer Online</h3>
+    <div align="center">
+      <a href="https://github.com/0noxtackore/Radio-Ebenezer-Online" target="_blank"><img src="img/7.png" width="400" style="max-width:100%;" alt="Ebenezer Screen"></a>
+      <p>
+        <a href="https://github.com/0noxtackore/Radio-Ebenezer-Online" target="_blank">
+          <img src="https://img.shields.io/badge/SOURCE_CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+        <a href="https://github.com/0noxtackore/Radio-Ebenezer-Online/blob/main/README.md" target="_blank">
+          <img src="https://img.shields.io/badge/DOCUMENTATION-0078D4?style=for-the-badge&logo=googledocs&logoColor=white">
+        </a>
+      </p>
+      <p>A specialized <strong>Web App interface</strong> for the Radio Ebenezer broadcasting system. Designed for large-scale displays with high-readability UI and real-time content updates.</p>
+    </div>
+  </td>
+
+  <td width="50%">
+    <h3 align="center">SERVI-WASH: Advanced Car Wash UI</h3>
+    <div align="center">
+      <a href="https://github.com/0noxtackore/Servi-Wash" target="_blank"><img src="img/8.png" width="400" style="max-width:100%;" alt="Servi-Wash Project"></a>
+      <p>
+        <a href="https://github.com/0noxtackore/Servi-Wash" target="_blank">
+          <img src="https://img.shields.io/badge/SOURCE_CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+        <a href="https://github.com/0noxtackore/Servi-Wash/blob/main/README.md" target="_blank">
+          <img src="https://img.shields.io/badge/DOCUMENTATION-0078D4?style=for-the-badge&logo=googledocs&logoColor=white">
+        </a>
+      </p>
+      <p>A <strong>comprehensive web management system</strong> for car wash businesses, featuring optimized user experience (UX), service tracking, and digital scheduling.</p>
+    </div>
+  </td>
+</tr>
+<tr>
 <td width="50%">
 <h3 align="center">Ebenezer Screen System</h3>
 <div align="center">
