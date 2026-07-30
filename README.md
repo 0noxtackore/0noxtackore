@@ -32,10 +32,10 @@
       <a href="https://github.com/0noxtackore/Radio-Ebenezer-Online" target="_blank"><img src="img/7.png" width="400" style="max-width:100%;" alt="Ebenezer Screen"></a>
       <p>
         <a href="https://github.com/0noxtackore/Radio-Ebenezer-Online" target="_blank">
-          <img src="https://img.shields.io/badge/SOURCE_CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=flat-square&logo=github&logoColor=white">
         </a>
         <a href="https://github.com/0noxtackore/Radio-Ebenezer-Online/blob/main/README.md" target="_blank">
-          <img src="https://img.shields.io/badge/DOCUMENTATION-0078D4?style=for-the-badge&logo=googledocs&logoColor=white">
+          <img src="https://img.shields.io/badge/DOCUMENTATION-0078D4?style=flat-square&logo=googledocs&logoColor=white">
         </a>
       </p>
       <p>A specialized <strong>Web App interface</strong> for the Radio Ebenezer broadcasting system. Designed for large-scale displays with high-readability UI and real-time content updates.</p>
@@ -48,10 +48,10 @@
       <a href="https://github.com/0noxtackore/Servi-Wash" target="_blank"><img src="img/8.png" width="400" style="max-width:100%;" alt="Servi-Wash Project"></a>
       <p>
         <a href="https://github.com/0noxtackore/Servi-Wash" target="_blank">
-          <img src="https://img.shields.io/badge/SOURCE_CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=flat-square&logo=github&logoColor=white">
         </a>
         <a href="https://github.com/0noxtackore/Servi-Wash/blob/main/README.md" target="_blank">
-          <img src="https://img.shields.io/badge/DOCUMENTATION-0078D4?style=for-the-badge&logo=googledocs&logoColor=white">
+          <img src="https://img.shields.io/badge/DOCUMENTATION-0078D4?style=flat-square&logo=googledocs&logoColor=white">
         </a>
       </p>
       <p>A <strong>comprehensive web management system</strong> for car wash businesses, featuring optimized user experience (UX), service tracking, and digital scheduling.</p>
@@ -68,7 +68,7 @@
 <img src="https://img.shields.io/badge/SOURCE_CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://github.com/0noxtackore/Ebenezer-Screen/blob/main/README.md" target="_blank">
-<img src="https://img.shields.io/badge/DOCUMENTATION-0078D4?style=for-the-badge&logo=googledocs&logoColor=white">
+<img src="https://img.shields.io/badge/DOCUMENTATION-0078D4?style=flat-square&logo=googledocs&logoColor=white">
 </a>
 </p>
 <p>A specialized <strong>Web App interface</strong> designed for large-scale displays. It focuses on high-readability UI and real-time content management.</p>
@@ -84,7 +84,7 @@
 <img src="https://img.shields.io/badge/SOURCE_CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://github.com/0noxtackore/Prototipe-Fluffy_Adventures/blob/main/README.md" target="_blank">
-<img src="https://img.shields.io/badge/DOCUMENTATION-0078D4?style=for-the-badge&logo=googledocs&logoColor=white">
+<img src="https://img.shields.io/badge/DOCUMENTATION-0078D4?style=flat-square&logo=googledocs&logoColor=white">
 </a>
 </p>
 <p>A <strong>Python-based game prototype</strong> exploring core game logic, state management, and asset rendering. Designed with modular architecture.</p>
@@ -102,7 +102,7 @@
 <img src="https://img.shields.io/badge/SOURCE_CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://github.com/0noxtackore/onoxfri-v1.1/blob/main/README.md" target="_blank">
-<img src="https://img.shields.io/badge/DOCUMENTATION-0078D4?style=for-the-badge&logo=googledocs&logoColor=white">
+<img src="https://img.shields.io/badge/DOCUMENTATION-0078D4?style=flat-square&logo=googledocs&logoColor=white">
 </a>
 </p>
 <p>Advanced <strong>Mobile Development</strong> project focused on performance and clean architecture. Implements modern Android patterns.</p>
@@ -115,10 +115,10 @@
 <a href="https://github.com/0noxtackore/Official-Site-Comics-Onofrietti" target="_blank"><img src="img/4.png" width="400" style="max-width:100%;" alt="Comics Site"></a>
 <p>
 <a href="https://github.com/0noxtackore/Official-Site-Comics-Onofrietti" target="_blank">
-<img src="https://img.shields.io/badge/SOURCE_CODE-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=flat-square&logo=github&logoColor=white">
 </a>
 <a href="https://github.com/0noxtackore/Official-Site-Comics-Onofrietti/blob/main/README.md" target="_blank">
-<img src="https://img.shields.io/badge/DOCUMENTATION-0078D4?style=for-the-badge&logo=googledocs&logoColor=white">
+<img src="https://img.shields.io/badge/DOCUMENTATION-0078D4?style=flat-square&logo=googledocs&logoColor=white">
 </a>
 </p>
 <p>A <strong>Multiplatform Web Hub</strong> for comic distribution. Integrates responsive web design with a focus on visual storytelling.</p>
@@ -133,10 +133,10 @@
 <a href="https://github.com/0noxtackore/Cat-logo-Lithay" target="_blank"><img src="img/5.png" width="400" style="max-width:100%;" alt="Lithay Catalog"></a>
 <p>
 <a href="https://github.com/0noxtackore/Cat-logo-Lithay" target="_blank">
-<img src="https://img.shields.io/badge/SOURCE_CODE-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=flat-square&logo=github&logoColor=white">
 </a>
 <a href="https://github.com/0noxtackore/Cat-logo-Lithay/blob/main/README.md" target="_blank">
-<img src="https://img.shields.io/badge/DOCUMENTATION-0078D4?style=for-the-badge&logo=googledocs&logoColor=white">
+<img src="https://img.shields.io/badge/DOCUMENTATION-0078D4?style=flat-square&logo=googledocs&logoColor=white">
 </a>
 </p>
 <p>A professional <strong>Digital Catalog Solution</strong> designed for product showcasing. Features a responsive layout and optimized search system.</p>
@@ -149,10 +149,10 @@
 <a href="https://github.com/0noxtackore/Eticamix" target="_blank"><img src="img/6.png" width="400" style="max-width:100%;" alt="Eticamix"></a>
 <p>
 <a href="https://github.com/0noxtackore/Eticamix" target="_blank">
-<img src="https://img.shields.io/badge/SOURCE_CODE-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=flat-square&logo=github&logoColor=white">
 </a>
 <a href="https://github.com/0noxtackore/Eticamix/blob/main/README.MD" target="_blank">
-<img src="https://img.shields.io/badge/DOCUMENTATION-0078D4?style=for-the-badge&logo=googledocs&logoColor=white">
+<img src="https://img.shields.io/badge/DOCUMENTATION-0078D4?style=flat-square&logo=googledocs&logoColor=white">
 </a>
 </p>
 <p>An innovative <strong>Management & Ethics Platform</strong>. Focuses on structured data handling, ensuring data integrity and security.</p>
