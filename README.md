@@ -1,5 +1,4 @@
 <h1 align="center">Hi, my name is <a href="https://aristi.dev">0noxtackore</a> 👋</h1>
-</div>
 
 <img style="width:100%; height: auto; object-fit: contain; image-rendering: crisp-edges;" src="img/portafolio.png">
 
@@ -14,6 +13,7 @@
 ## Databases
 
 <p align="center"><img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /> <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /></p>
+
 ## *Featured* Projects
 <table>
 <tr>
@@ -154,8 +154,6 @@
 
 ### GitHub Analytics
 <p align="center">
-<a href="https://github.com/0noxtackore">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=0noxtackore&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0noxtackore&layout=compact&langs_count=8&theme=algolia"/>
-</a>
 </p>
