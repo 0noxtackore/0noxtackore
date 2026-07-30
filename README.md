@@ -166,6 +166,6 @@
 <a href="https://github.com/0noxtackore">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=0noxtackore&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0noxtackore&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=0noxtackore&theme=algolia"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=0noxtackore&theme=algolia"/>
 </a>
 </p>
