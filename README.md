@@ -23,7 +23,7 @@
   </a>
 </p>
 
-## *Featured* Projects
+<!-- ## *Featured* Projects
 <table>
 <tr>
   <td width="50%">
@@ -159,7 +159,7 @@
 </div>
 </td>
 </tr>
-</table>
+</table> -->
 
 ### GitHub Analytics
 <p align="center">
