@@ -186,6 +186,28 @@
 </div>
 </td>
 </tr>
+<tr>
+<td width="33%">
+<h3 align="center">CSS Can Do THIS... without JavaScript</h3>
+<div align="center">
+<a href="https://www.youtube.com/shorts/aJHs6C7SkxY" target="_blank"><img src="https://i.ytimg.com/vi/aJHs6C7SkxY/hqdefault.jpg" width="200" style="max-width:100%;" alt="CSS Can Do THIS without JavaScript"></a>
+</div>
+</td>
+
+<td width="33%">
+<h3 align="center">5 Things You Didn't Know About PHP</h3>
+<div align="center">
+<a href="https://www.youtube.com/shorts/2Odag83K9ZY" target="_blank"><img src="https://i.ytimg.com/vi/2Odag83K9ZY/hqdefault.jpg" width="200" style="max-width:100%;" alt="5 Things You Didn't Know About PHP"></a>
+</div>
+</td>
+
+<td width="33%">
+<h3 align="center">5 Things You Didn't Know About Ruby</h3>
+<div align="center">
+<a href="https://www.youtube.com/shorts/PaFjBLmo4bg" target="_blank"><img src="https://i.ytimg.com/vi/PaFjBLmo4bg/hqdefault.jpg" width="200" style="max-width:100%;" alt="5 Things You Didn't Know About Ruby"></a>
+</div>
+</td>
+</tr>
 </table>
 
 ### GitHub Analytics
