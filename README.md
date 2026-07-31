@@ -161,6 +161,33 @@
 </tr>
 </table> -->
 
+### Videos
+
+<table>
+<tr>
+<td width="33%">
+<h3 align="center">The Python Trick That Saves You HOURS</h3>
+<div align="center">
+<a href="https://www.youtube.com/shorts/KbQC-G_s5iQ" target="_blank"><img src="https://i.ytimg.com/vi/KbQC-G_s5iQ/hqdefault.jpg" width="200" style="max-width:100%;" alt="The Python Trick That Saves You HOURS"></a>
+</div>
+</td>
+
+<td width="33%">
+<h3 align="center">The JS Keyword Nobody Uses</h3>
+<div align="center">
+<a href="https://www.youtube.com/shorts/z72cJ-Pe_2U" target="_blank"><img src="https://i.ytimg.com/vi/z72cJ-Pe_2U/hqdefault.jpg" width="200" style="max-width:100%;" alt="The JS Keyword Nobody Uses"></a>
+</div>
+</td>
+
+<td width="33%">
+<h3 align="center">This Java Trick Saves You Hours</h3>
+<div align="center">
+<a href="https://www.youtube.com/shorts/G8B6-t58DfQ" target="_blank"><img src="https://i.ytimg.com/vi/G8B6-t58DfQ/hqdefault.jpg" width="200" style="max-width:100%;" alt="This Java Trick Saves You Hours"></a>
+</div>
+</td>
+</tr>
+</table>
+
 ### GitHub Analytics
 <p align="center">
 <a href="https://github.com/0noxtackore">
