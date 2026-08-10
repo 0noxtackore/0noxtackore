@@ -11,10 +11,6 @@
   </picture>
 </div>
 
-<div align="center" style="width:100%;">
-  <img src="https://raw.githubusercontent.com/sapthesh/Mario-Contribution-Graph/main/mario_contribution.svg" alt="Mario contribution graph" width="100%"/>
-</div>
-
 ## Development and Languages
 
 <p align="center">
@@ -168,6 +164,10 @@
 </td>
 </tr>
 </table> -->
+
+<div align="center" style="width:100%;">
+  <img src="https://raw.githubusercontent.com/sapthesh/Mario-Contribution-Graph/main/mario_contribution.svg" alt="Mario contribution graph" width="100%"/>
+</div>
 
 ### Videos
 
