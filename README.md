@@ -4,7 +4,11 @@
 <img style="width:100%; height: auto; object-fit: contain; image-rendering: crisp-edges;" src="img/portafolio.png">
 
 <div align="center" style="width:100%;">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pavithran-P12/ReadmePacman/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pavithran-P12/ReadmePacman/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Pavithran-P12/ReadmePacman/output/pacman-contribution-graph.svg" width="100%"/>
+  </picture>
 </div>
 
 ## Development and Languages
