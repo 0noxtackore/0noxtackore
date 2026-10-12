@@ -1,7 +1,7 @@
 <h1 align="center">Hi, my name is <a href="https://aristi.dev">0noxtackore</a> 👋</h1>
 </div>
 
-<img style="width:100%; height: auto; object-fit: contain; image-rendering: crisp-edges;" src="img/portafolio.png">
+<img style="width:100%; height: auto; object-fit: contain; image-rendering: crisp-edges;" src="img/portafolio.jpg">
 
 <div align="center" style="width:100%;">
   <picture>
