@@ -226,3 +226,9 @@
   <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=0noxtackore&theme=algolia"/>
 </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=0noxtackore&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B" alt="0noxtackore's github activity graph" width="100%"/>
+  </a>
+</p>
