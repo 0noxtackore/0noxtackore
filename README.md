@@ -101,15 +101,11 @@ Real products, not assignments - systems shipped and put in front of real users.
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=0noxtackore&show_icons=true&hide_rank=true&hide_border=true&border_radius=16&bg_color=0D1117&title_color=60A5FA&text_color=9CA3AF&icon_color=60A5FA&custom_title=GitHub%20Stats" width="400" alt="GitHub stats for 0noxtackore">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0noxtackore&layout=compact&langs_count=8&bg_color=0D1117&title_color=60A5FA&text_color=9CA3AF&icon_color=60A5FA" width="400" alt="Top languages for 0noxtackore">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=0noxtackore&theme=dark&background=0D1117" width="400" alt="GitHub streak stats for 0noxtackore">
+<a href="https://github.com/0noxtackore">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=0noxtackore&show_icons=true&hide_border=true&border_radius=16&bg_color=0D1117&title_color=60A5FA&text_color=9CA3AF&icon_color=60A5FA&custom_title=GitHub%20Stats&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0noxtackore&layout=compact&langs_count=8&bg_color=0D1117&title_color=60A5FA&text_color=9CA3AF&icon_color=60A5FA"/>
+  <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=0noxtackore&theme=dark&background=0D1117"/>
+</a>
 </p>
 
 <p align="center">

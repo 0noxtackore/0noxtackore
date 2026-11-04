@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-labelledby="tk-t">
   <title id="tk-t">Toolkit 0noxtackore</title>
-  <desc id="tk-d">cat ./stack.txt - languages, frontend, backend, data, infra and AI/ML.</desc>
+  <desc id="tk-d">cat ./stack.txt - languages, frontend, backend, data, infra, AI/ML and tools.</desc>
   <defs>
     <linearGradient id="tk-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A0F1C"/><stop offset="1" stop-color="#05070D"/></linearGradient>
     <radialGradient id="tk-glow" cx="80%" cy="20%" r="70%"><stop offset="0" stop-color="#4169E1" stop-opacity=".55"/><stop offset="1" stop-color="#1E40AF" stop-opacity="0"/></radialGradient>
@@ -22,28 +22,28 @@
   <rect x=".5" y=".5" width="1199" height="419" rx="19.5" fill="none" stroke="#60A5FA" stroke-opacity=".16"/>
 
   <g class="tk-fade">
-    <rect x="40" y="40" width="760" height="340" rx="14" fill="#0B1120" stroke="#1E40AF" stroke-opacity=".3"/>
-    <rect x="40" y="40" width="760" height="340" rx="14" fill="url(#tk-scan)"/>
-    <path d="M40 54 a14 14 0 0 1 14 -14 H786 a14 14 0 0 1 14 14 V76 H40 Z" fill="#0A0F1C"/>
-    <line x1="40" y1="76" x2="800" y2="76" stroke="#1E40AF" stroke-opacity=".2"/>
+    <rect x="40" y="40" width="980" height="340" rx="14" fill="#0B1120" stroke="#1E40AF" stroke-opacity=".3"/>
+    <rect x="40" y="40" width="980" height="340" rx="14" fill="url(#tk-scan)"/>
+    <path d="M40 54 a14 14 0 0 1 14 -14 H1006 a14 14 0 0 1 14 14 V76 H40 Z" fill="#0A0F1C"/>
+    <line x1="40" y1="76" x2="1020" y2="76" stroke="#1E40AF" stroke-opacity=".2"/>
     <circle cx="62" cy="58" r="5" fill="#1E40AF"/>
     <circle cx="80" cy="58" r="5" fill="#2A4BC7"/>
     <circle cx="98" cy="58" r="5" fill="#3B82F6"/>
-    <text class="tk-mono" x="420" y="62" text-anchor="middle" font-size="11" letter-spacing="1.5" fill="#9CA3AF">0noxtackore@noxtackore ~ % ./stack.sh</text>
+    <text class="tk-mono" x="520" y="62" text-anchor="middle" font-size="11" letter-spacing="1.5" fill="#9CA3AF">0noxtackore@noxtackore ~ % ./stack.sh</text>
   </g>
 
   <g class="tk-mono" font-size="13.5">
     <g clip-path="url(#tk-c0)"><text x="72" y="104" fill="#60A5FA">$</text><text x="94" y="104" fill="#F8FAFC">cat ./stack.txt</text></g>
   </g>
   <g class="tk-mono" font-size="13.5">
-    <text x="72" y="136" fill="#D1D5DB">Languages ...... Java, Python, JS, TS, C++, C#</text>
-    <text x="72" y="161" fill="#D1D5DB">Frontend ...... React, Next.js, Vue, HTML, CSS, Sass</text>
-    <text x="72" y="186" fill="#D1D5DB">Backend ...... Node.js, Express, REST, JWT</text>
-    <text x="72" y="211" fill="#D1D5DB">Data ......... PostgreSQL, MySQL, MongoDB, Redis</text>
-    <text x="72" y="236" fill="#D1D5DB">Infra ....... AWS, Docker, Linux, GCP</text>
-    <text x="72" y="261" fill="#D1D5DB">AI/ML ....... Python, LLMs, NLP, Deep Learning</text>
-    <text x="72" y="286" fill="#D1D5DB">Tools ....... Git, GitHub, Postman, Figma</text>
-    <text x="72" y="311" fill="#D1D5DB">Domains ..... Web · Mobile · Game · AI · Cloud</text>
+    <text x="72" y="136" fill="#D1D5DB">Languages ...... Java, Python, JavaScript, TypeScript, C, C#, C++, Kotlin, Go, Rust, Dart, Swift, Ruby, PHP, Bash</text>
+    <text x="72" y="161" fill="#D1D5DB">Frontend ...... HTML, CSS, Sass, JavaScript, TypeScript, React, Vue, Next.js, Vite, Pinia</text>
+    <text x="72" y="186" fill="#D1D5DB">Backend ...... Node.js, Express, REST, Microservices, JWT, FastAPI, Laravel, Django, Go, GraphQL</text>
+    <text x="72" y="211" fill="#D1D5DB">Data ......... MySQL, PostgreSQL, MongoDB, SQLite, Redis, Supabase, Firebase, Prisma</text>
+    <text x="72" y="236" fill="#D1D5DB">Infra ....... AWS, Docker, Linux, GCP, Firebase, Vercel, Netlify, Cloudflare, Debian, Arduino, Apple</text>
+    <text x="72" y="261" fill="#D1D5DB">AI/ML ....... Python, LLMs, NLP, Deep Learning, PyTorch, TensorFlow, Scikit-learn, OpenAI</text>
+    <text x="72" y="286" fill="#D1D5DB">Tools ....... Git, GitHub, Postman, Figma, Linux, VS Code, Vite, Bash, Electron, npm, MD, XD, Mint, Red Hat</text>
+    <text x="72" y="311" fill="#D1D5DB">Domains ...... Web · Mobile · Game · AI · Cloud</text>
   </g>
 
   <rect x="72" y="345" width="8" height="16" fill="#60A5FA" class="tk-fade" style="animation-delay:8.2s">
