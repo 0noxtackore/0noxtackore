@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 340" width="520" height="340" role="img" aria-labelledby="a1">
+  <title id="a1">Avi Vashishta — ASCII portrait</title>
+  <rect width="520" height="340" rx="16" fill="#0A0F1C"/>
+  <rect x="0.5" y="0.5" width="519" height="339" rx="15" fill="none" stroke="#1E40AF" stroke-opacity=".35"/>
+  <text x="40" y="70" font-family="monospace" font-size="22" fill="#60A5FA">    ____</text>
+  <text x="40" y="112" font-family="monospace" font-size="22" fill="#93C5FD">   |    |</text>
+  <text x="40" y="154" font-family="monospace" font-size="22" fill="#F8FAFC">   | AV |</text>
+  <text x="40" y="196" font-family="monospace" font-size="22" fill="#D1D5DB">   |    |</text>
+  <text x="40" y="238" font-family="monospace" font-size="22" fill="#60A5FA">    ----</text>
+</svg>

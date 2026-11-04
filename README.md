@@ -1,4 +1,11 @@
-<img style="width:100%; height: auto; object-fit: contain; image-rendering: crisp-edges;" src="img/portafolio.jpg" alt="0noxtackore - Portfolio">
+<h3><code>avi@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="./avi-ascii.svg" width="420" alt="Avi Vashishta — ASCII portrait" /></td>
+<td valign="top"><img src="./stats.svg" width="420" alt="Avi's GitHub streak and contribution stats — auto-refreshed daily" /></td>
+</tr>
+</table>
 
 <p align="center">
   <a href="https://0noxtackore.dev"><img src="https://img.shields.io/badge/Portfolio-0noxtackore.dev-1E40AF?style=for-the-badge&logo=githubpages&logoColor=F8FAFC&labelColor=9CA3AF" alt="Portfolio"></a>
