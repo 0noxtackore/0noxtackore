@@ -1,25 +1,25 @@
 <div align="center">
 
-<h3><code>avi@github ~ $ ./contributions.sh</code></h3>
-<img src="./contrib-heatmap.svg" width="860" alt="Avi's GitHub contribution graph — auto-refreshed daily" />
+<h3><code>0noxtackore@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" alt="0noxtackore's GitHub contribution graph — auto-refreshed daily" />
 
 <br>
 <br>
 
-<h3><code>avi@github ~ $ whoami</code></h3>
+<h3><code>0noxtackore@github ~ $ whoami</code></h3>
 
 <table>
 <tr>
-<td valign="top"><img src="./avi-ascii.svg" width="420" alt="Avi Vashishta — ASCII portrait" /></td>
-<td valign="top"><img src="./stats.svg" width="420" alt="Avi's GitHub streak and contribution stats — auto-refreshed daily" /></td>
+<td valign="top"><img src="./avi-ascii.svg" width="420" alt="0noxtackore — ASCII portrait" /></td>
+<td valign="top"><img src="./stats.svg" width="420" alt="0noxtackore's GitHub streak and contribution stats — auto-refreshed daily" /></td>
 </tr>
 </table>
 
 <br>
 <br>
 
-<h3><code>avi@github ~ $ ./links.sh</code></h3>
-<p><b>Fullstack Developer · AI Builder · Instructor</b></p>
+<h3><code>0noxtackore@github ~ $ ./links.sh</code></h3>
+<p><b>Software Architect · Builder of high-performance systems</b></p>
 
 <p align="center">
   <a href="https://0noxtackore.dev"><img src="https://img.shields.io/badge/Portfolio-0noxtackore.dev-1E40AF?style=for-the-badge&logo=githubpages&logoColor=F8FAFC&labelColor=9CA3AF" alt="Portfolio"></a>
