@@ -30,7 +30,7 @@
     <text class="tv-mono" x="40" y="34" font-size="12" letter-spacing="3" fill="#60A5FA"><tspan fill="#93C5FD">01</tspan>   ABOUT</text>
   </g>
   <g class="tv-in tv-d2">
-    <text class="tv-serif" x="38" y="84" font-size="44" font-weight="300" letter-spacing="-1" fill="#F8FAFC">Hello, I&#x27;m <tspan font-style="italic" fill="url(#tv-sheen)">0noxtackore.</tspan></text>
+    <text class="tv-serif" x="38" y="84" font-size="44" font-weight="300" letter-spacing="-1" fill="#F8FAFC">Hello, I&#x27;m <tspan font-style="italic" fill="url(#tv-sheen)">0noxtackore</tspan> 👋</text>
   </g>
   <g class="tv-in tv-d3">
     <text class="tv-mono" x="1160" y="34" text-anchor="end" font-size="10.5" letter-spacing="2.4" fill="#9CA3AF">WHO I AM</text>

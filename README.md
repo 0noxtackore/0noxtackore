@@ -1,5 +1,3 @@
-<h1 align="center">Hi, my name is <a href="https://0noxtackore.dev">0noxtackore</a> 👋</h1>
-
 <img style="width:100%; height: auto; object-fit: contain; image-rendering: crisp-edges;" src="img/portafolio.jpg" alt="0noxtackore - Portfolio">
 
 <p align="center">
