@@ -37,7 +37,9 @@ Real products, not assignments - systems shipped and put in front of real users.
 
 ---
 
-### Videos
+## 04 · Videos
+
+![04 Videos - Little tricks, big wins.](img/title-videos.svg)
 
 <table>
 <tr>
@@ -88,9 +90,9 @@ Real products, not assignments - systems shipped and put in front of real users.
 
 ---
 
-## 04 · Commit Log
+## 05 · Commit Log
 
-![04 Commit log - A year of building.](img/title-commits.svg)
+![05 Commit log - A year of building.](img/title-commits.svg)
 
 <div align="center" style="width:100%;">
   <picture>
@@ -114,9 +116,9 @@ Real products, not assignments - systems shipped and put in front of real users.
 
 ---
 
-## 05 · Connect
+## 06 · Connect
 
-![05 Connect - Let's build something worth explaining.](img/title-connect.svg)
+![06 Connect - Let's build something worth explaining.](img/title-connect.svg)
 
 <p align="center">
   <a href="https://0noxtackore.dev"><img src="https://img.shields.io/badge/Portfolio-0noxtackore.dev-1E40AF?style=for-the-badge&logo=githubpages&logoColor=F8FAFC&labelColor=9CA3AF" alt="Portfolio"></a>
