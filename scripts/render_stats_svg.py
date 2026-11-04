@@ -29,8 +29,8 @@ TILE = "#161b22"
 FRAME = "#30363d"
 MUTED = "#7d8590"
 INK = "#e6edf3"
-GREEN = "#39d353"
-BAR = "#26a641"
+GREEN = "#60A5FA"
+BAR = "#2563EB"
 
 W, H = 840, 880                      # == avi-ascii.svg canvas
 PAD = 20
