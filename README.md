@@ -1,10 +1,12 @@
-<h1 align="center">Hi, my name is <a href="https://aristi.dev">0noxtackore</a> 👋</h1>
+<h1 align="center">Hi, my name is <a href="https://0noxtackore.dev">0noxtackore</a> 👋</h1>
 
 <img style="width:100%; height: auto; object-fit: contain; image-rendering: crisp-edges;" src="img/portafolio.jpg" alt="0noxtackore - Portfolio">
 
 <p align="center">
-  <a href="https://aristi.dev"><img src="https://img.shields.io/badge/Portfolio-aristi.dev-1E40AF?style=for-the-badge&logo=githubpages&logoColor=F8FAFC&labelColor=9CA3AF" alt="Portfolio"></a>
+  <a href="https://0noxtackore.dev"><img src="https://img.shields.io/badge/Portfolio-0noxtackore.dev-1E40AF?style=for-the-badge&logo=githubpages&logoColor=F8FAFC&labelColor=9CA3AF" alt="Portfolio"></a>
   <a href="https://github.com/0noxtackore"><img src="https://img.shields.io/badge/GitHub-0noxtackore-111827?style=for-the-badge&logo=github&logoColor=F8FAFC&labelColor=9CA3AF" alt="GitHub"></a>
+  <a href="https://angello-tech.netlify.app"><img src="https://img.shields.io/badge/Live_Demo-netlify-1E40AF?style=for-the-badge&logo=netlify&logoColor=F8FAFC&labelColor=9CA3AF" alt="Live Demo"></a>
+  <a href="https://www.linkedin.com/in/angello-aponte-onofrietti"><img src="https://img.shields.io/badge/LinkedIn-Angello_Aponte_Onofrietti-1E40AF?style=for-the-badge&logo=linkedin&logoColor=F8FAFC&labelColor=9CA3AF" alt="LinkedIn"></a>
 </p>
 
 ---
@@ -119,8 +121,10 @@ Real products, not assignments - systems shipped and put in front of real users.
 ![05 Connect - Let's build something worth explaining.](img/title-connect.svg)
 
 <p align="center">
-  <a href="https://aristi.dev"><img src="https://img.shields.io/badge/Portfolio-aristi.dev-1E40AF?style=for-the-badge&logo=githubpages&logoColor=F8FAFC&labelColor=9CA3AF" alt="Portfolio"></a>
+  <a href="https://0noxtackore.dev"><img src="https://img.shields.io/badge/Portfolio-0noxtackore.dev-1E40AF?style=for-the-badge&logo=githubpages&logoColor=F8FAFC&labelColor=9CA3AF" alt="Portfolio"></a>
   <a href="https://github.com/0noxtackore"><img src="https://img.shields.io/badge/GitHub-0noxtackore-111827?style=for-the-badge&logo=github&logoColor=F8FAFC&labelColor=9CA3AF" alt="GitHub"></a>
+  <a href="https://angello-tech.netlify.app"><img src="https://img.shields.io/badge/Live_Demo-netlify-1E40AF?style=for-the-badge&logo=netlify&logoColor=F8FAFC&labelColor=9CA3AF" alt="Live Demo"></a>
+  <a href="https://www.linkedin.com/in/angello-aponte-onofrietti"><img src="https://img.shields.io/badge/LinkedIn-Angello_Aponte_Onofrietti-1E40AF?style=for-the-badge&logo=linkedin&logoColor=F8FAFC&labelColor=9CA3AF" alt="LinkedIn"></a>
 </p>
 
 <img src="img/footer-signature.svg" width="100%" alt="0noxtackore - Engineering intelligence. Designing experiences.">
