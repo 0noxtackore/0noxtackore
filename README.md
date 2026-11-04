@@ -1,3 +1,11 @@
+<div align="center">
+
+<h3><code>avi@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" alt="Avi's GitHub contribution graph — auto-refreshed daily" />
+
+<br>
+<br>
+
 <h3><code>avi@github ~ $ whoami</code></h3>
 
 <table>
@@ -7,12 +15,22 @@
 </tr>
 </table>
 
+<br>
+<br>
+
+<h3><code>avi@github ~ $ ./links.sh</code></h3>
+<p><b>Fullstack Developer · AI Builder · Instructor</b></p>
+
 <p align="center">
   <a href="https://0noxtackore.dev"><img src="https://img.shields.io/badge/Portfolio-0noxtackore.dev-1E40AF?style=for-the-badge&logo=githubpages&logoColor=F8FAFC&labelColor=9CA3AF" alt="Portfolio"></a>
   <a href="https://github.com/0noxtackore"><img src="https://img.shields.io/badge/GitHub-0noxtackore-111827?style=for-the-badge&logo=github&logoColor=F8FAFC&labelColor=9CA3AF" alt="GitHub"></a>
   <a href="https://angello-tech.netlify.app"><img src="https://img.shields.io/badge/Live_Demo-netlify-1E40AF?style=for-the-badge&logo=netlify&logoColor=F8FAFC&labelColor=9CA3AF" alt="Live Demo"></a>
   <a href="https://www.linkedin.com/in/angello-aponte-onofrietti"><img src="https://img.shields.io/badge/LinkedIn-Angello_Aponte_Onofrietti-1E40AF?style=for-the-badge&logo=linkedin&logoColor=F8FAFC&labelColor=9CA3AF" alt="LinkedIn"></a>
 </p>
+
+<br>
+
+</div>
 
 ---
 
