@@ -15,10 +15,6 @@
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://algora.io/og/user/0noxtackore" width="260" alt="0noxtackore — Algora avatar" />
-</p>
-
 <br>
 <br>
 
